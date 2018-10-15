@@ -1,10 +1,9 @@
 {
   "name": "wslogcli",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "a websocket client cli tools",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "bin": {
     "debugger": "./debugger.js"
   },

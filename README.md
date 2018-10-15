@@ -1,4 +1,4 @@
-# wslogcli
+# Wslogcli
 
 ### install
 ```
