@@ -1,0 +1,26 @@
+{
+  "name": "wslogcli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "bin": {
+    "debugger": "./debugger.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtboy1995/wslogcli.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtboy1995/wslogcli/issues"
+  },
+  "homepage": "https://github.com/dtboy1995/wslogcli#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "commander": "^2.19.0",
+    "ws": "^6.1.0"
+  }
+}
