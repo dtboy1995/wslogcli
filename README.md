@@ -1,4 +1,5 @@
-# Wslogcli
+# wslogcli
+:open_file_folder: a websocket client cli tools
 
 ### install
 ```
